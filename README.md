@@ -19,9 +19,9 @@ The analysis performed within the following steps:
 - share of different sectors (Energy, Industrial Processes etc.) within 30-year evolution of the emissions with a stacked column chart
 - analysis of GHG emissions in sectors reported in 2018 compare to 1990 with the bar chart
 - country-level analysis, considering GDP, population and corresponding emissions using scatter chart
-
+scscscscsc
 ## Key Insights:
-- The Database provides emission time series from 1990 until 2018 for 194 countries, covering a total population of 7.5 billion inhabitants
+- The Database provides emission time series from 1990 until 2018 for 194 countries, covering a total population of 7.5 billion inhabitansts
 - In 2018, reported emissions totaled 47.5 thouthand MtCO2e (excluding the effects of land use and forestry), which represents a 55 percent increase since 1990
 - In 2018, Energy sector (including fuels used by transport and buildings) represent the largest source of greenhouse gas emissions worldwide (78.3 %), followed by agriculture (12.2 %), Industrial Processes (6.1%) and Waste (3.4 %)
 - To be more specific, the five most emitting sub-sectors are responsible for 33 % (Electricity / Heat), 17 % (Transportation) and 13 % (Manufacturing/Construction) and 12 % (Agriculture) of the total CO2-eq emissions
